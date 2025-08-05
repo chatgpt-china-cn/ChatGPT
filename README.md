@@ -1,6 +1,6 @@
-# ChatGPT 中文版：免费直连指南（支持 GPT-4o、GPT-4、o1、o3 和 DeepSeek R1、Claude4，国内无需翻墙）【2025年7月最新】
+# ChatGPT 中文版：免费直连指南（支持 GPT-4o、GPT-4、o1、o3 和 DeepSeek R1、Claude4，国内无需翻墙）【2025年8月最新】
 
-> **更新时间：2025/07/26**                   
+> **更新时间：2025/08/06**   
 
 全面体验 **[ChatGPT 中文版](https://chat.lanjingai.org) 使用指南**，精选国内优质镜像网站，支持 **GPT-4o、GPT-4、o1、o3 和 DeepSeek R1、Claude 3.7 Sonnet** 等多款模型，无需翻墙即可访问。   
 无论您是想提升工作效率还是满足个人需求，本文将帮助您快速上手 **[ChatGPT 中文版](https://xsimplechat.com)**，并提供官网注册教程和常见问题解答。
